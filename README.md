@@ -31,5 +31,3 @@ The goal of the project is to create your AI and a using Pytorch, Stable-Baselin
 - Create Environment for the Video Game
   - ``` from gym import Env ```
   - ``` from gym.spaces import Box, Discrete ```
-
-## Build The Environment 💪
